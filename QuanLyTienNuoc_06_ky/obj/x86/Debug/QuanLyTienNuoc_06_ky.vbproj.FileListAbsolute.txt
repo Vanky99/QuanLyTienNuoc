@@ -1,0 +1,43 @@
+C:\Users\KyYeu\AppData\Local\Temporary Projects\QuanLyTienNuoc_06_ky\bin\Debug\QuanLyTienNuoc_06_ky.exe
+C:\Users\KyYeu\AppData\Local\Temporary Projects\QuanLyTienNuoc_06_ky\bin\Debug\QuanLyTienNuoc_06_ky.pdb
+C:\Users\KyYeu\AppData\Local\Temporary Projects\QuanLyTienNuoc_06_ky\bin\Debug\QuanLyTienNuoc_06_ky.xml
+C:\Users\KyYeu\AppData\Local\Temporary Projects\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.Form1.resources
+C:\Users\KyYeu\AppData\Local\Temporary Projects\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.Resources.resources
+C:\Users\KyYeu\AppData\Local\Temporary Projects\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.vbproj.GenerateResource.Cache
+C:\Users\KyYeu\AppData\Local\Temporary Projects\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.exe
+C:\Users\KyYeu\AppData\Local\Temporary Projects\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.xml
+C:\Users\KyYeu\AppData\Local\Temporary Projects\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.pdb
+C:\Users\KyYeu\AppData\Local\Temporary Projects\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.Form2.resources
+C:\Users\KyYeu\AppData\Local\Temporary Projects\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.Form3.resources
+C:\Users\KyYeu\Desktop\QuảnLýTiềnNước_06_KỲ\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.exe
+C:\Users\KyYeu\Desktop\QuảnLýTiềnNước_06_KỲ\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.xml
+C:\Users\KyYeu\Desktop\QuảnLýTiềnNước_06_KỲ\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.pdb
+C:\Users\KyYeu\Desktop\QuảnLýTiềnNước_06_KỲ\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\bin\Debug\QuanLyTienNuoc_06_ky.exe
+C:\Users\KyYeu\Desktop\QuảnLýTiềnNước_06_KỲ\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\bin\Debug\QuanLyTienNuoc_06_ky.pdb
+C:\Users\KyYeu\Desktop\QuảnLýTiềnNước_06_KỲ\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\bin\Debug\QuanLyTienNuoc_06_ky.xml
+C:\Users\KyYeu\Desktop\QuảnLýTiềnNước_06_KỲ\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.Form1.resources
+C:\Users\KyYeu\Desktop\QuảnLýTiềnNước_06_KỲ\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.Form2.resources
+C:\Users\KyYeu\Desktop\QuảnLýTiềnNước_06_KỲ\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.Form3.resources
+C:\Users\KyYeu\Desktop\QuảnLýTiềnNước_06_KỲ\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.Form4.resources
+C:\Users\KyYeu\Desktop\QuảnLýTiềnNước_06_KỲ\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.Resources.resources
+C:\Users\KyYeu\Desktop\QuảnLýTiềnNước_06_KỲ\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.vbproj.GenerateResource.Cache
+C:\Users\KyYeu\Desktop\QuảnLýTiềnNước_06_KỲ\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.Form5.resources
+C:\Users\KyYeu\Desktop\QuảnLýTiềnNước_06_KỲ\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.Form6.resources
+C:\Users\KyYeu\Desktop\QuảnLýTiềnNước_06_KỲ\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.Hoadon.resources
+C:\Users\KyYeu\Desktop\QuảnLýTiềnNước_06_KỲ\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.Hoadon2.resources
+C:\Users\KyYeu\Desktop\QlTN_06_Ky\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.exe
+C:\Users\KyYeu\Desktop\QlTN_06_Ky\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.xml
+C:\Users\KyYeu\Desktop\QlTN_06_Ky\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.pdb
+C:\Users\KyYeu\Desktop\QlTN_06_Ky\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\bin\Debug\QuanLyTienNuoc_06_ky.exe
+C:\Users\KyYeu\Desktop\QlTN_06_Ky\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\bin\Debug\QuanLyTienNuoc_06_ky.pdb
+C:\Users\KyYeu\Desktop\QlTN_06_Ky\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\bin\Debug\QuanLyTienNuoc_06_ky.xml
+C:\Users\KyYeu\Desktop\QlTN_06_Ky\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.Form1.resources
+C:\Users\KyYeu\Desktop\QlTN_06_Ky\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.Form2.resources
+C:\Users\KyYeu\Desktop\QlTN_06_Ky\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.Form3.resources
+C:\Users\KyYeu\Desktop\QlTN_06_Ky\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.Form4.resources
+C:\Users\KyYeu\Desktop\QlTN_06_Ky\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.Form5.resources
+C:\Users\KyYeu\Desktop\QlTN_06_Ky\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.Form6.resources
+C:\Users\KyYeu\Desktop\QlTN_06_Ky\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.Hoadon.resources
+C:\Users\KyYeu\Desktop\QlTN_06_Ky\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.Resources.resources
+C:\Users\KyYeu\Desktop\QlTN_06_Ky\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.Hoadon2.resources
+C:\Users\KyYeu\Desktop\QlTN_06_Ky\QuanLyTienNuoc_06_ky\QuanLyTienNuoc_06_ky\obj\x86\Debug\QuanLyTienNuoc_06_ky.vbproj.GenerateResource.Cache
